@@ -1,8 +1,8 @@
 car exhaust:
-https://unsplash.com/photos/PqszIxpLefE
+Photo by <a href="https://unsplash.com/@justusmenke">Justus Menke</a> on <a href="https://unsplash.com/photos/PqszIxpLefE">Unsplash</a>
 
 grass:
-https://unsplash.com/photos/C2PCa6DhlYE
+Photo by <a href="https://unsplash.com/@jakenackos">Jake Nackos</a> on <a href="https://unsplash.com/photos/C2PCa6DhlYE">Unsplash</a>
 
 oil:
-https://www.flickr.com/photos/bbcworldservice/4973199245/in/photostream/
+Photo by <a href="https://www.flickr.com/photos/bbcworldservice/">BBC World Service</a> Licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC 2.0</a> on <a href="https://www.flickr.com/photos/bbcworldservice/4973199245/in/photostream/">flickr</a>
